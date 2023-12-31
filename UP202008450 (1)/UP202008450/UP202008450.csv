@@ -1,0 +1,5 @@
+test1,120,g1,P,P,P,P,P,P,g2,P,P,P,P,P,P,g3,P,P,P,P,P,P,g4,P,P,P,P,P,P,g5,P,P,P,P,P,P,g6,P,P,P,P,P,P,g7,P,P,P,P,P,P,g8,P,P,P,P,P,P,g9,P,P,P,P,P,P,g10,P,P,P,P,P,P,g11,P,P,P,P,P,P,g12,P,P,P,P,P,P,g13,P,P,P,P,P,P,g14,P,P,P,P,P,P,g15,P,P,P,P,P,P,g16,P,P,P,P,P,P,g17,P,P,P,P,P,P,g18,P,P,P,P,P,P,g19,P,P,P,P,P,P,g20,P,P,P,P,P,P
+test2,20,g1,P,g2,P,g3,P,g4,P,g5,P,g6,P,g7,P,g8,P,g9,P,g10,P,g11,P,g12,P,g13,P,g14,P,g15,P,g16,P,g17,P,g18,P,g19,P,g20,P
+test3,20,g1,P,g2,P,g3,P,g4,P,g5,P,g6,P,g7,P,g8,P,g9,P,g10,P,g11,P,g12,P,g13,P,g14,P,g15,P,g16,P,g17,P,g18,P,g19,P,g20,P
+test5,32,g1,F,P,P,F,F,F,P,F,g2,P,P,P,P,F,F,P,P,g3,P,P,P,P,F,F,P,P,g8,F,F,P,P,F,F,P,F,g9,F,F,P,P,F,F,P,F,g19,F,F,P,F,P,P,F,P,g20,P,P,P,P,P,F,P,P
+test6,0,g1,F,g2,F,g3,F,g4,F,g5,F,g6,F,g7,F,g8,F,g9,F,g10,F,g11,F,g12,F,g13,F,g14,F,g15,F,g16,F,g17,F,g18,F,g19,F,g20,F

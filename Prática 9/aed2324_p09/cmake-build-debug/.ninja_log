@@ -1,0 +1,21 @@
+# ninja log v5
+0	137	1702332051081026978	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+1	921	1702332051865034023	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	f96689eb1f86f336
+0	957	1702332051901034347	CMakeFiles/aed2324_p09.dir/main.cpp.o	4e38dca061d8012a
+1	10005	1702332060949115767	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6eed1df829bfb76c
+2	23	1702332197626368911	lib/libgtest.a	78f2332e553e3a7e
+23	29	1702332197630368949	lib/libgtest_main.a	afb86b4634707b2b
+1	123	1702332197722369806	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+1	126	1702332233754706639	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+2	118	1702332299499327166	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+2	375	1702332299755329596	CMakeFiles/aed2324_p09.dir/Tests/Person.cpp.o	eb184f8c0bf292f2
+1	1342	1702332300719338749	CMakeFiles/aed2324_p09.dir/Tests/tests.cpp.o	b2904620503a6d52
+1342	1436	1702332300815339660	aed2324_p09	af980ddb82b3d153
+1	130	1702337833907202015	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+1	384	1702337834163205681	CMakeFiles/aed2324_p09.dir/Tests/Person.cpp.o	eb184f8c0bf292f2
+1	1536	1702337835315222171	CMakeFiles/aed2324_p09.dir/Tests/tests.cpp.o	b2904620503a6d52
+1536	1627	1702337835403223430	aed2324_p09	af980ddb82b3d153
+1	118	1702341759161957012	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+1	129	1702341858862842140	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023
+1	376	1702341859110844363	CMakeFiles/aed2324_p09.dir/Tests/Person.cpp.o	eb184f8c0bf292f2
+2	118	1702391448749793833	CMakeFiles/aed2324_p09.dir/Tests/funWithGraphs.cpp.o	a67f3ab6b085a023

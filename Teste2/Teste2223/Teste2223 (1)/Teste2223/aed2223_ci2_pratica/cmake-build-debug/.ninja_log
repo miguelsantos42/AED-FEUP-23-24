@@ -1,0 +1,44 @@
+# ninja log v5
+3077	3125	1702486135847342325	lib/libgtest_maind.a	37196fb31fc0712f
+3	335	1702509401699082290	CMakeFiles/aed2223_ci2_pratica.dir/Tests/funWithGraphs.cpp.o	89abc96835d97b6d
+0	746	1702486133471338416	CMakeFiles/aed2223_ci2_pratica.dir/main.cpp.o	21bd0ff4ddea2752
+3	672	1702486133395338291	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	52f7bdff2d0c011
+2	377	1702510378667424948	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	49fdc916f1cf9836
+2957	3077	1702486135795342239	lib/libgtestd.a	9ddeefdcb5ef33f3
+3	2956	1702486135667342028	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	56f81c897b679ae7
+2	1463	1702509402827080822	CMakeFiles/aed2223_ci2_pratica.dir/Tests/tests.cpp.o	6351349d6c1f0d42
+2	435	1702603468167888767	CMakeFiles/aed2223_ci2_pratica.dir/Tests/funWithGraphs.cpp.o	4f18de84db5811f5
+2	550	1702603468283890101	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+2	982	1702603468715895068	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	33fc6f07cc52dbbd
+1	1045	1702603468779895804	CMakeFiles/aed2223_ci2_pratica.dir/main.cpp.o	7f402d49a6192a5f
+1	1653	1702603469387902793	CMakeFiles/aed2223_ci2_pratica.dir/Tests/tests.cpp.o	4f9b2e57626e1aed
+1	4082	1702603679926251623	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	a705b80ea90a508c
+4082	4137	1702603679986252275	lib/libgtestd.a	d5c85fdfae239eb3
+4137	4142	1702603679994252362	lib/libgtest_maind.a	b3086e9ebde2958e
+4142	4297	1702603680146254013	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+2	534	1702604004169668812	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+534	724	1702604004357670744	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	374	1702604444542099055	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+374	528	1702604444694100560	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	379	1702605686039459875	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+379	526	1702605686187461486	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	392	1702605749844151022	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+392	542	1702605749992152617	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	506	1702606300757922429	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+506	690	1702606300941924317	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	479	1702637863932333233	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+479	671	1702637864120333940	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	353	1702637917816537676	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+353	526	1702637917988538334	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	519	1702639265527274033	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+519	677	1702639265683276488	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	453	1702639294739726093	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+453	622	1702639294907728650	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+4	1740	1702639529674883499	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+1741	2385	1702639530314891124	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+5	1906	1702639891570616141	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+1906	2563	1702639892222622038	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	447	1702639927414937014	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+447	595	1702639927562938326	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
+1	422	1702640230981432249	CMakeFiles/aed2223_ci2_pratica.dir/Tests/graph.cpp.o	6e01fa6da82845c2
+422	594	1702640231149433541	/home/miguel/3ºano/AED 21_22/Novas_Práticas/Teste2/Teste2223/Teste2223 (1)/Teste2223/aed2223_ci2_pratica/Tests/aed2223_ci2_pratica	ca47175d43fe32ee
